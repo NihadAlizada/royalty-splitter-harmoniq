@@ -1,0 +1,1 @@
+Hello teacher. I am providing you instructions if you want to open our database with pg admin. On PgAdmin app create new database, riht click then open query tool. Open .sql file that I provided. Then run query. Database will be created. Wish u good luck, thanks
